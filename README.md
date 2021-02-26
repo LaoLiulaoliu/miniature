@@ -12,5 +12,5 @@
 [error]   (x$1: Class[_ <: jakarta.servlet.Servlet],x$2: String)org.eclipse.jetty.servlet.ServletHolder <and>
 [error]   (x$1: String,x$2: String)org.eclipse.jetty.servlet.ServletHolder
 [error]  cannot be applied to (Class[example.OperatorServlet], String)
-  [error]     context.addServlet(classOf[OperatorServlet], "/*")
-  [error]
+[error]     context.addServlet(classOf[OperatorServlet], "/*")
+[error]
